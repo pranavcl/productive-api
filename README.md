@@ -138,4 +138,4 @@ Authorization: Bearer <your-jwt-token>
 
 ## License
 
-Published under the [GNU GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.en.html)
+Published under the [Productive API license](https://github.com/pranavcl/productive-api/blob/main/LICENSE.md)
