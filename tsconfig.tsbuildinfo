@@ -1,0 +1,1 @@
+{"root":["./src/authentication.ts","./src/dbconnect.ts","./src/index.ts","./src/auth/auth.ts","./src/auth/login.ts","./src/auth/logout.ts","./src/auth/me.ts","./src/auth/signup.ts","./src/schemas/user.ts","./src/types/global.d.ts","./src/users/name.ts","./src/users/root.ts","./src/users/update.ts","./src/users/users.ts"],"version":"5.7.3"}
